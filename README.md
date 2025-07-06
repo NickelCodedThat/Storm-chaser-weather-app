@@ -34,6 +34,7 @@ git clone https://github.com/NickelCodedThat/Storm-chaser-weather-app.
 Add hourly forecasts
 Integrate radar maps
 Enable geolocation-based detection
+
 🧑‍💻 Author
 
 NickelCodedThat
