@@ -27,7 +27,7 @@ A dynamic weather forecasting web app that provides real-time weather conditions
 Clone the repo and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/NickelCodedThat/Storm-chaser-weather-app.
+https://github.com/NickelCodedThat/Storm-chaser-weather-app.
 
 📈 Future Plans
 
