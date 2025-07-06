@@ -13,7 +13,7 @@ A dynamic weather forecasting web app that provides real-time weather conditions
 
 ## 📸 Screenshot
 
-![App Screenshot](images/day/clear.jpg)
+![App Screenshot](images/screenshot.png)
 
 ## 🛠️ Technologies Used
 
